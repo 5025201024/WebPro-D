@@ -1,12 +1,3 @@
-# Web Programming D Midterms
-
-| **No**        | **Name**      | **NRP**   | 
-| ------------- | ------------- | --------- |
-| 1 | Raden Pandu Anggono Rasyid  | 025201024 | 
-| 2 | Hidayatullah | 5025201031  |
-| 3 | Nazhifah El Qolby | 5025201156 |
-
-
 ## General Overview
 
 We make our project by using the Laravel Framework to create a website that has CRUD ( Create, Read, Update, Delete) features alongside our own added functionalities. The Website is TCFess. It is an interactive, community based forum similar to Quora, Reddit, and Twitter Base. Here we can make accounts and post threads, we can also engage in other users’ threads by replying to their respective threads.
